@@ -1,0 +1,8 @@
+# 磁力引擎原生库下发包（dyxia-bt）
+
+a2898d64f49a67ce71f8e9ca61d4dbe36fb751ba702882a1d67221dd12b83a67     4367236  libtorrent4j-arm64-v8a.so.xz
+276ec5468b27c7b02000d51d0ea62d92924f06c9c014ac2a37d8941182af2d92     3679372  libtorrent4j-armeabi-v7a.so.xz
+209a013956b7607f97a40183472dd1f18a4922725db9ca29e45b6ac578c2792a     1532640  libxl_thunder_sdk-arm64-v8a.so.xz
+a6af7b444595a82b1fc57138a75a14e4b9eb5c7aaaa6131bb3ce1caa8937707c     1458968  libxl_thunder_sdk-armeabi-v7a.so.xz
+
+合计 10.53 MiB
